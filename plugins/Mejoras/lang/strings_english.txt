@@ -1,0 +1,8 @@
+<?php  
+$s_plugin_Mejoras_title = 'Registro de Mejoras';  
+$s_plugin_Mejoras_titulo = 'Título';  
+$s_plugin_Mejoras_descripcion = 'Descripción';  
+$s_plugin_Mejoras_tipo_mejora = 'Tipo de Mejora';  
+$s_plugin_Mejoras_motivo = 'Motivo';  
+$s_plugin_Mejoras_registrar_mejora = 'Registrar Mejora';
+$s_plugin_Mejoras_lista_mejoras = 'Lista de Mejoras';

@@ -1,0 +1,6 @@
+<?php  
+$s_plugin_GraficosPruebas_title = 'Gráficos de Pruebas';  
+$s_plugin_GraficosPruebas_por_tipo_prueba = 'Por Tipo de Prueba';  
+$s_plugin_GraficosPruebas_por_hallazgo = 'Por Tipo de Hallazgo';  
+$s_plugin_GraficosPruebas_por_prioridad = 'Por Prioridad';  
+$s_plugin_GraficosPruebas_por_estado = 'Por Estado';
