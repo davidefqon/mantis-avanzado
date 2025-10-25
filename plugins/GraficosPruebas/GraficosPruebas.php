@@ -10,8 +10,8 @@ class GraficosPruebasPlugin extends MantisPlugin {
             'MantisCore' => '2.0',  
         );  
           
-        $this->author = 'Tu Nombre';  
-        $this->contact = 'tu@email.com';  
+        $this->author = 'David';  
+        $this->contact = 'brahyanarch@email.com';  
         $this->url = '';  
     }  
       
